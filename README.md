@@ -119,6 +119,7 @@ welcome.
     Apply clusters for personalized discovery, helping users find “hidden gems” in their taste cluster.
 
     5. Recommendation System
+    
     **Key Findings:
 
     Collaborative and content-based filtering models produced accurate personalized suggestions.
