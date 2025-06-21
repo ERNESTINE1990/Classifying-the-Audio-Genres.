@@ -163,5 +163,10 @@ welcome.
     Guide music licensing and sync choices with trend alignment (e.g., ad campaigns using high-valence tracks).
 
 
+# Ways to contact:
+
+e-mail:ernestine07081990@gmail.com
+
+
 
 
