@@ -162,10 +162,20 @@ welcome.
 
     Guide music licensing and sync choices with trend alignment (e.g., ad campaigns using high-valence tracks).
 
+# Streamlit app 
+![Capture d'écran 2025-06-23 224857](https://github.com/user-attachments/assets/529ef60a-af82-473b-991d-56476271c13b)
+![Capture d'écran 2025-06-23 224929](https://github.com/user-attachments/assets/ceb14583-fde3-4102-a3b3-4ef8f054d13e)
+![Capture d'écran 2025-06-23 224948](https://github.com/user-attachments/assets/9d614f2e-56d2-41b1-ae48-1a09c8ffcc6d)
+
+
+
+
 
 # Ways to contact:
 
 e-mail:ernestine07081990@gmail.com
+
+
 
 
 
