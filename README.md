@@ -4,7 +4,17 @@ Classifying audio genres involves analyzing sound signals—typically music or s
 
 # Problem Statement:
 
-This is an open-ended dataset where you need to develop the problem statement on your own. From Business use case you can have a brief idea on developing the problem statement.
+The objective is to develop a machine learning model capable of accurately classifying audio files into predefined music genres based on their acoustic features. Genre classification is a fundamental task in music information retrieval, aiding in music recommendation systems, library organization, and digital content analysis.​
+
+Given a dataset of audio recordings labeled with their respective genres (e.g., rock, jazz, classical, hip-hop, electronic), the goal is to extract meaningful features from the audio signals (such as Mel-frequency cepstral coefficients (MFCCs), spectral contrast, chroma features, tempo, etc.) and train a classification algorithm to predict the genre of unseen audio samples.​
+
+The main challenges include:​
+
+Variability within genres: Songs from the same genre may have different tempos, instruments, or vocal styles.​
+
+Overlap between genres: Some genres share similar acoustic characteristics, making them hard to distinguish.​
+
+Noise and recording quality: Real-world audio may contain background noise or variations in production quality.
 
 # Business Use Cases:
 
